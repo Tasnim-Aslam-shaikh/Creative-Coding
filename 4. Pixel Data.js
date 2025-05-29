@@ -1,7 +1,7 @@
 var img, x, y;
 
 function preload() {
-img = loadImage("tree.jpg");
+img = loadImage("flowers.jpg");
 }
 
 function setup() {
